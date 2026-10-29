@@ -3,16 +3,14 @@
 Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 
-## Kelompok 
+## Kelompok 2
 
-| Peran | Nama | NIM |
-|---|---|---|
 | Ketua | Najwa Ambia Putri Noer | 124400025 |
 | Anggota | Habib Hyanggi Pratama | 124400076 |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Anggota | Septian Dwi Andika | 123400042 |
 
 - **Kelas:** [RB]
-- **Lokasi kelompok:** [kode] —    [nama lokasi] (digit terakhir NIM terkecil)
+- **Lokasi kelompok:** 2
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
